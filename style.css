@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
 
+
 body{
 	font-family: 'Open Sans', sans-serif;
 	padding: 0;
@@ -53,30 +54,30 @@ h4{
 }
 
 .charater1{
-	background: url(img/character1.png) no-repeat 0 0;
-	background-size: 100%;
-	width: 363px;
+	background: url(/img/character1.png) no-repeat 0 0;
+	background-size: 100%
+	width: 396px;
 	height: 344px;
 	position: absolute; top: 117px; right: 89px;
 
 }
 
 .character2{
-	background: url(img/character2.png) no-repeat 0 0;
+	background: url(../img/character2.png) no-repeat 0 0;
 	background-size: 100%;
 	width: 309px;
 	height: 371px;
-	position: absolute; top: 213px; right: 277px;
+	position: absolute; top: 213px; right: 109px;
 
 
 }
 
 .character3{
-	background: url(img/character3.png) no-repeat 0 0;
+	background: url(../img/character3.png) no-repeat 0 0;
 	background-size: 100%;
-	width:297px;
+	width: 297px;
 	height: 286px;
-	position: absolute; bottom: 74px; right: 109px;
+	position: absolute; bottom: 74px; right: 277px;
 
 }
 
